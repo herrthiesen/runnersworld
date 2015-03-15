@@ -1,0 +1,43 @@
+body {
+ margin-top: 62px;
+}
+
+.navbar-default {
+ background-color: #cece17;
+ border-color: #202f5b;
+}
+
+.navbar-default .navbar-brand {
+ color: #202f5b;
+}
+
+.navbar-default .navbar-nav > li > a {
+ color: #202f5b;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
+ color: #cece17;
+ background-color: #202f5b;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+ background-color: #c3c305;
+}
+
+.panel {
+ border: 2px solid transparent;
+}
+
+.panel-default {
+ border-color: #202f5b;
+}
+
+.panel-default > .panel-heading {
+ color: #202f5b;
+ background-color: #cece17;
+ border-color: #202f5b;
+}
